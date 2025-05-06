@@ -1,6 +1,8 @@
 package ollama
 
 import (
+	// "github.com/ollama/ollama/api"
+	// "github.com/shitposteragent/shitpostercli/cmd"
 	"net/http"
 )
 

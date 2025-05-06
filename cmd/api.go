@@ -2,8 +2,6 @@ package cmd
 
 import (
 	"fmt"
-
-	"github.com/shitposteragent/shitpostercli/cmd/ollama"
 	"github.com/spf13/cobra"
 )
 
